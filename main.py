@@ -11,11 +11,11 @@ from sklearn.metrics import r2_score, mean_absolute_error
 # ------------------------------
 # PAGE CONFIG
 # ------------------------------
-st.set_page_config(page_title="IT Salary Predictor",
+st.set_page_config(page_title="Salary Predictor",
                    page_icon="💼",
                    layout="wide")
 
-st.title("💼 IT Salary Prediction System")
+st.title("💼Salary Prediction System")
 st.markdown("Predict salary using Machine Learning with visual analytics")
 
 # ------------------------------
